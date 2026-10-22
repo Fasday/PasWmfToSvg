@@ -1,0 +1,7 @@
+*.pas text eol=crlf
+*.dpr text eol=crlf
+*.inc text eol=crlf
+*.py text eol=lf
+*.md text eol=lf
+*.emf binary
+*.wmf binary

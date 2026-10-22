@@ -1,0 +1,26 @@
+# Delphi
+*.dcu
+*.o
+*.exe
+*.dll
+*.map
+*.drc
+*.rsm
+*.identcache
+*.local
+*.dsk
+*.stat
+*.res
+__history/
+__recovery/
+Win32/
+Win64/
+Linux64/
+OSX64/
+OSXARM64/
+Android64/
+iOSDevice64/
+
+# сборки и проверка
+build/
+__pycache__/
